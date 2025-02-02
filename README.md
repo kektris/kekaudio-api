@@ -1,5 +1,5 @@
 # KekAudio API
-Addon for KekAudio that adds API support. It was very buggy and useless, so we thought it can be just as addon
+Addon for [KekAudio](https://github.com/kektris/kekaudio) that adds API support. It was very buggy and useless, so we thought it can be just as addon
 
 ![image](https://github.com/user-attachments/assets/f8026e11-91b7-432c-94a3-a7773bf70aef)
 
